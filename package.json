@@ -1,0 +1,16 @@
+{
+  "name": "discord-bot-starter",
+  "version": "1.0.0",
+  "description": "A starter to make discord.js bot quicker",
+  "main": "bot.js",
+  "repository": "git@github.com:geoffreyparrier/discord-bot-starter.git",
+  "author": "Geoffrey Parrier",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12",
+    "prettier": "^2.3.2"
+  }
+}
