@@ -1,5 +1,8 @@
-# discord-bot-starter
-Starter for a discord bot with discord.js
+# inter-info-discord-bot
+A discord bot made for the inter info discord.
 
-To start just copy paste the config.json.example and remove ".example" 
-then fill your server token and the prefix of the commands (maybe not necessary)
+## Contributors :
+* Geoffrey Parrier (geoffreyparrier)
+* Hugo Cartigny (BlueskyFR)
+* Théo Gimenez (LordChicken)
+* Yoan Rouleau (YoanRouleau)
